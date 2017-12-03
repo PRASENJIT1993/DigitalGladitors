@@ -11,4 +11,16 @@ Rajasthan Digifest Udaipur Hackathon Event
  - PanicButtonNodeMcuWifiModule - Contains Source Code to Trigger and Alert AWS - SNS Service.
  - BeaconTracking.js - Used to track the beacons.
  - ToSendDataMQTT.py - Used to remotly control the any electronic applicances.
+ - HealthCareMonitoringApp.pptx - Presentation File consists of Problem Statement, App Idea, Screenshots and more.
+ 
+ # APP URL - https://d1cilyualrfo9o.cloudfront.net
+  PATIENT
+  ==================
+  User ID: patient1
+  Password: patient1
+  
+  DOCTOR
+  ==================
+  User ID: doctor1
+  Password: doctor1
  
