@@ -1,0 +1,55 @@
+export default {
+  APP_NAME_DEFAULT: 'Health Monitoring',
+  LOGIN_PAGE_HEADER: 'Login',
+  DASHBOARD_PAGE_HEADER: 'Dashboard',
+  ADMIN_USERNAME: ['admin1', 'admin2', 'admin3', 'admin4', 'admin5', 'admin6', 'admin7', 'admin8', 'admin9', 'admin10'],
+  DOCTOR_USERNAME: ['doctor1', 'doctor2', 'doctor3', 'doctor4', 'doctor5', 'doctor6', 'doctor7', 'doctor8', 'doctor9', 'doctor10'],
+  PATIENT_USERNAME: ['patient1', 'patient2', 'patient3', 'patient4', 'patient5', 'patient6', 'patient7', 'patient8', 'patient9', 'patient10'],
+  ADMIN_USERNAME_TEXT: 'Admin',
+  DOCTOR_USERNAME_TEXT: 'Doctor',
+  PATIENT_USERNAME_TEXT: 'Patient',
+  USER_LOGGED_IN_SUCCESS: 'USER_LOGGED_IN_SUCCESS',
+  USER_LOGGED_OUT_SUCCESS: 'USER_LOGGED_OUT_SUCCESS',
+  SET_CURRENT_SELECTED_TAB: 'SET_CURRENT_SELECTED_TAB',
+  SERVER_ERROR: 'SERVER_ERROR',
+  CLEAR_SERVER_ERROR: 'CLEAR_SERVER_ERROR',
+  NAVIGATION_LINK_TEXT: {
+    DEFAULT_LINK: '/',
+    ADMIN_DASHBOARD_LINK: '/adminDashboard',
+    DOCTOR_DASHBOARD_LINK: '/docDashboard',
+    PATIENT_DASHBOARD_LINK: '/patDashboard',
+    DOCTOR_PATIENT_LIST_LINK: '/docPatientList',
+    DOCTOR_PATIENT_DETAILS_LINK: '/docPatientDetails',
+    DOCTOR_NOTIFICATION_LINK: '/docNotification',
+    DOCTOR_REPORTS_LINK: '/docReports',
+    DOCTOR_VIDEO_CONFERENCE_LINK: '/docVideoConference',
+    PATIENT_SOS_LINK: '/patientSOS',
+    PATIENT_FEEDBACK_FORM: '/patientFeedBackForm',
+    PATIENT_NEAR_BY_PLACE: '/patientNearByHCare'
+  },
+  NAVIGATION_PAGE_HEADER: {
+    DEFAULT_HEADER: 'Login',
+    DASHBOARD_HEADER: 'Dashboard',
+    DOCTOR_PATIENT_LIST: 'Patient List',
+    DOCTOR_PATIENT_DETAILS: 'Patient Details',
+    DOCTOR_NOTIFICATION_HEADER: 'Notifications',
+    DOCTOR_REPORTS_HEADER: 'Reports',
+    DOCTOR_VIDEO_CONFERENCE_HEADER: 'Header',
+    PATIENT_SOS_SERVICE: 'SOS',
+    PATIENT_FEEDBACK_HEADER: 'Feedback',
+    PATIENT_NEAR_BY_HEADER: 'Near By HealthCare'
+  },
+  GET_DUMMY_DATA: 'GET_DUMMY_DATA',
+  GET_PATIENT_LIST_BY_ID: 'GET_PATIENT_LIST_BY_ID',
+  GET_PATIENT_DETAILS_BY_ID: 'GET_PATIENT_DETAILS_BY_ID',
+  GET_NOTIFICATION_DATA_BY_ID: 'GET_NOTIFICATION_DATA_BY_ID',
+  GET_PATIENT_PROFILE_DATA: 'GET_PATIENT_PROFILE_DATA',
+  PATIENT_STATUS: {
+    DISCHARGED: 'Discharged',
+    AWAITING: 'Awaiting',
+    IN_TREATMENT: 'In Treatment'
+  },
+  SEND_SOS_NOTIFICATION_ALERT: 'SEND_SOS_NOTIFICATION_ALERT',
+};
+
+
